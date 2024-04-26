@@ -1,4 +1,4 @@
-name: Kuis Program
+name: kuisprogram
 description: "Aplikasi ini adalah sebuah kuis interaktif yang berfokus pada topik-topik pemrograman. Pengguna dapat memilih antara dua pilihan topik kuis: Kuis Syntax dan Kuis Framework. Setelah memilih topik, pengguna akan diarahkan ke kuis yang sesuai dengan pilihannya. Setiap kuis terdiri dari 5 soal yang harus dijawab oleh pengguna. Setiap soal diberi waktu 10 detik untuk dijawab. Jika waktu habis sebelum pengguna menjawab, maka kuis akan otomatis beralih ke soal berikutnya. Selama kuis, pengguna dapat melihat skor mereka secara langsung. Setiap jawaban yang benar akan meningkatkan skor pengguna. Skor ditampilkan di atas setiap soal sebagai Nilai Anda. Setelah menjawab semua soal, pengguna akan melihat nilai akhir kuis mereka. Di bagian bawah layar, terdapat tombol untuk memulai ulang kuis. "
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
